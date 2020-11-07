@@ -1,2 +1,2 @@
-# Gokalp_Site
- .
+# Gokalp_site
+ 
